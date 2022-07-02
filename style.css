@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.h1header{
+    text-align: center;
+    padding: 10px;
+}
+.headerlist{
+    width: 100%;
+    text-align: center;
+    background-color: rgb(248, 141, 41);
+}
+.headerlist a{
+    text-decoration: none;
+    color: #fff;
+}
+.headerlist ul{
+ list-style-position: inside;
+    
+}
+.headerlist li{
+    display: inline-block;
+    line-height: 50px;
+    text-align: center;
+    padding: 10px;
+}
+
